@@ -1,8 +1,8 @@
 #include <SoftwareSerial.h>
 
-SoftwareSerial serialbt(8, 9);
-#define ledr 6
-#define ledy 5
+SoftwareSerial serialbt(8, 9); //Inicializa os pinos 8 e 9 como rx e tx do bluetooth.
+#define ledr 6 //Led vermelho
+#define ledy 5 //Led amarelo
 
 char valorbt;
 
