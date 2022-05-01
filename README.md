@@ -21,6 +21,6 @@ do código se encontra no arquivo led_control.ino.
 
 ![Circuito](circuito.png)
 
-# Configuração do Bluetooth Voice
+## Configuração do Bluetooth Voice
 
 <img src="btvoice_config.jpeg" width="288" height="640" />
